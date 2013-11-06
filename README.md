@@ -1,7 +1,7 @@
 seesaw
 ======
 
-Playground for GitHub features.
+Playground/Sandbox for GitHub features.
 
 Just ignore all activity from here.
 
